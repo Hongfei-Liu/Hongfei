@@ -28,7 +28,7 @@
   ## 👾 Projects:
 
 
-<summary><b>·Flying Shooting Game (Unity3D) - School Project 2020.01 - 2020.05</b></summary>
+<summary><b>Flying Shooting Game (Unity3D) - School Project 2020.01 - 2020.05</b></summary>
 
 |Role      | Achievement           |
 |-------------------|----------------------------|
@@ -41,7 +41,7 @@
 </details>
 
 
-<summary><b>·3D Tower Defense Game | Unity3D | Team Project (3 members) | 2021.01–2021.05</b></summary>
+<summary><b>3D Tower Defense Game | Unity3D | Team Project (3 members) | 2021.01–2021.05</b></summary>
 
 |Role      | Achievement           |
 |-------------------|----------------------------|
@@ -54,7 +54,7 @@
 </details>
 
 
-<summary><b>·Third-Person Shooter (TPS) Prototype | Unity3D | Solo Project | 2022.01–Present</b></summary>
+<summary><b>Third-Person Shooter (TPS) Prototype | Unity3D | Solo Project | 2022.01–Present</b></summary>
 
 |Role      | Achievement           |
 |-------------------|----------------------------|
@@ -68,7 +68,7 @@
 
 
 
-<summary><b>·2D Horizontal Version Jumping Puzzle Game (Unity3D) - Graduation Project 2021.05 – 2021.08</b></summary>
+<summary><b>2D Horizontal Version Jumping Puzzle Game (Unity3D) - Graduation Project 2021.05 – 2021.08</b></summary>
 
 |Role      | Achievement           |
 |-------------------|----------------------------|
