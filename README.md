@@ -46,8 +46,7 @@
 |Role      | Achievement           |
 |-------------------|----------------------------|
 |  Lead Designer      | ·Designed 8+ unique defense towers with modular attack logic, improving gameplay diversity by 40% |
-|  Programmer      | ·Implemented an algorithm for dynamic enemy pathfinding, reducing CPU load by 15%
-                    ·Integrated particle systems for combat VFX, boosting player retention in playtests by 25%     |
+|  Programmer      | ·Implemented an algorithm for dynamic enemy pathfinding, reducing CPU load by 15%  <br> ·Integrated particle systems for combat VFX, boosting player retention in playtests by 25%     |
 
 
 <br>
