@@ -82,4 +82,9 @@
 </details>
 
 
+  ## Game Experience:
+|Game Types   | Games           |
+|-------------------|----------------------------|
+|  Animation mobile games   | Genshin Impact  HonKai Starrail <br> Arknights  Azurlane  |
+|  Game programmer     | ·Built save system with auto-backup, reducing player frustration from data loss by 90%     |
 
