@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white" width="45">   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" width="100">
 
 <summary><b>Tools</b></summary>
-  <img src="https://img.shields.io/badge/jira-bpm-2?style=flat&logoColor=white" width="100"> 
+  <img src="https://img.shields.io/badge/jira?style=flat&logoColor=white" width="100"> 
 
 <summary><b>Engine</b></summary>
 
