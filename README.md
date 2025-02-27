@@ -82,7 +82,7 @@
 </details>
 
 
-  ## Game Experience:
+  ## 🎮 Game Experience:
 |Game Types   | Games           |
 |-------------------|----------------------------|
 |  Animation mobile games   | Genshin Impact  &nbsp;&nbsp;HonKai Starrail <br> Arknights  &nbsp;&nbsp;&nbsp;Azurlane  |
