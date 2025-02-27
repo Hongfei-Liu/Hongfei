@@ -89,5 +89,5 @@
 |  MOBA    | League of legends  |
 |  FPS   | Call of duty series &nbsp;&nbsp; Battlefield series &nbsp;&nbsp; Left 4 Dead 2 |
 |  RTS   | Warcraft 3 &nbsp;&nbsp; StarCraft 2 &nbsp;&nbsp; Age of Empires 4|
-|  RPG   | It takes two &nbsp;&nbsp; Sekiro &nbsp;&nbsp; Elden Ring <be> Metro &nbsp;&nbsp; Monster Hunter: World &nbsp;&nbsp; Total War: Three Kingdoms <br> Total War: Warhammer3 &nbsp;&nbsp; Fire Emblem: Three Houses &nbsp;&nbsp; Code Vein|
+|  RPG   | It takes two &nbsp;&nbsp; Sekiro &nbsp;&nbsp; Elden Ring <br> Metro &nbsp;&nbsp; Monster Hunter: World &nbsp;&nbsp; Total War: Three Kingdoms <br> Total War: Warhammer3 &nbsp;&nbsp; Fire Emblem: Three Houses &nbsp;&nbsp; Code Vein|
 
