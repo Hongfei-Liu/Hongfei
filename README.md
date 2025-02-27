@@ -87,5 +87,5 @@
 |-------------------|----------------------------|
 |  Animation mobile games   | Genshin Impact  &nbsp;&nbsp;HonKai Starrail <br> Arknights  &nbsp;&nbsp;&nbsp;Azurlane  |
 |  MOBA    | League of legends  |
-|  FPS   | Call of duty series   Battlefield series|
+|  FPS   | Call of duty series &nbsp;&nbsp;   Battlefield series|
 
