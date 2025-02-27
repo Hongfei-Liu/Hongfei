@@ -85,7 +85,7 @@
   ## Game Experience:
 |Game Types   | Games           |
 |-------------------|----------------------------|
-|  Animation mobile games   | Genshin Impact  HonKai Starrail <br> Arknights  Azurlane  |
+|  Animation mobile games   | Genshin Impact  &nbsp;&nbsp;HonKai Starrail <br> Arknights  &nbsp;&nbsp;&nbsp;Azurlane  |
 |  MOBA    | League of legends  |
 |  FPS   | Call of duty series   Battlefield series|
 
