@@ -33,8 +33,7 @@
 |Role      | Achievement           |
 |-------------------|----------------------------|
 | Designer(system, level, boss),      | Designed procedural enemy spawner (Poisson Disk Sampling) + multi-phase boss 	logic (15+ attack patterns)  |
-|Programmer(main game, plot and boss)       | Core Gameplay Systems
-Built player control & enemy AI systems using Unity ECS, reducing input latency by 35%     |
+|Programmer(main game, plot and boss)       | Core Gameplay Systems Built player control & enemy AI systems using Unity ECS, reducing input latency by 35%     |
 
 
 <br>
