@@ -15,7 +15,7 @@
 <summary><b>Languages</b></summary>
 
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white" width="45">   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" width="100">
-  <img src="https://img.shields.io/badge/?logo=jira-bpm-2&logo=html5&logoColor=white" width="100">
+  <img src="?logo=jira-bpm-2&logo=html5&logoColor=white" width="100">
 
 
   
