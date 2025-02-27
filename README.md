@@ -41,7 +41,7 @@
 </details>
 
 
-<summary><b>··3D Tower Defense Game | Unity3D | Team Project (3 members) | 2021.01–2021.05</b></summary>
+<summary><b>·3D Tower Defense Game | Unity3D | Team Project (3 members) | 2021.01–2021.05</b></summary>
 
 |Role      | Achievement           |
 |-------------------|----------------------------|
@@ -52,3 +52,34 @@
 <br>
 
 </details>
+
+
+<summary><b>·Third-Person Shooter (TPS) Prototype | Unity3D | Solo Project | 2022.01–Present</b></summary>
+
+|Role      | Achievement           |
+|-------------------|----------------------------|
+|  ·Full-Stack Developer (Design/Code/Art)     | ·Built hybrid AI system and Utility AI for adaptive enemy behaviors <br>·Optimized animation blending trees, reducing latency by 30% |
+
+
+
+<br>
+
+</details>
+
+
+
+<summary><b>·2D Horizontal Version Jumping Puzzle Game (Unity3D) - Graduation Project 2021.05 – 2021.08</b></summary>
+
+|Role      | Achievement           |
+|-------------------|----------------------------|
+|  Level designer     | ·Designed 2D maps with "Metroidvania-style" exploration, praised by 85% playtesters for "rewarding backtracking" <br> ·Created boss battles featuring 8+ dynamic bullet patterns, described as "challenging yet fair" in playtesters feedback  |
+|  Game programmer     | ·Built save system with auto-backup, reducing player frustration from data loss by 90%     |
+
+
+
+<br>
+
+</details>
+
+
+
