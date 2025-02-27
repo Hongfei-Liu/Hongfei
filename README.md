@@ -33,7 +33,21 @@
 |Role      | Achievement           |
 |-------------------|----------------------------|
 | Designer(system, level, boss),      | Designed procedural enemy spawner (Poisson Disk Sampling) + multi-phase boss 	logic (15+ attack patterns)  |
-|Programmer(main game, plot and boss)       | Core Gameplay Systems: Built player control & enemy AI systems using Unity ECS, reducing input latency by 35%     |
+| Programmer(main game, plot and boss)       | Core Gameplay Systems: Built player control & enemy AI systems using Unity ECS, reducing input latency by 35%     |
+
+
+<br>
+
+</details>
+
+
+<summary><b>··3D Tower Defense Game | Unity3D | Team Project (3 members) | 2021.01–2021.05</b></summary>
+
+|Role      | Achievement           |
+|-------------------|----------------------------|
+|  Lead Designer      | ·Designed 8+ unique defense towers with modular attack logic, improving gameplay diversity by 40% |
+|  Programmer      | ·Implemented an algorithm for dynamic enemy pathfinding, reducing CPU load by 15%
+                    ·Integrated particle systems for combat VFX, boosting player retention in playtests by 25%     |
 
 
 <br>
