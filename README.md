@@ -32,8 +32,9 @@
 
 |Role      | Achievement           |
 |-------------------|----------------------------|
-| Designer(system, level, boss), Programmer(main game, plot and boss)        | Seprate the perk pool acooding to the perk type. Split the index numbers and assign meaning to each number,『Compared to 10001, 10002... Using a index to 13042, 1 represents the category of the perk, 3 represents the perk level, and 042 is the perk of the 42nd effect in category 1.』 This organization reduces the number of perks the system needs to search through, enhancing efficiency and minimizing resource consumption.  |
-|Latin fonts lack Unicode support for certain languages       | Developed a manager script that searches for all in-game text upon startup or when the language setting is changed. This script automatically updates the text to use a stylized font that supports the selected language.          |
+| Designer(system, level, boss),      | Designed procedural enemy spawner (Poisson Disk Sampling) + multi-phase boss 	logic (15+ attack patterns)  |
+|Programmer(main game, plot and boss)       | Core Gameplay Systems
+Built player control & enemy AI systems using Unity ECS, reducing input latency by 35%     |
 
 
 <br>
